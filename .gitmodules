@@ -1,0 +1,3 @@
+[submodule "library/jni/Masonry"]
+	path = library/jni/Masonry
+	url = git@github.com:Tanchey/MasonryCPP11.git
